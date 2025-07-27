@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hello! I'm Carlos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+</div>
 
-<!--
-**carlos888nasa/carlos888nasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Telecommunications Engineering Student | Future Astronaut | Space Enthusiast</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5BCDEC&center=true&width=600&lines=Developing+the+future+between+bits+and+stars" alt="Typing SVG">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+<h2 align="center">✨ About Me</h2>
+
+<p align="center">
+🔭 Currently exploring: <b>Astrodynamics</b> and <b>Satellite Communications</b><br>
+🌱 Learning: <b>Embedded Systems</b> for space applications<br>
+🎯 Goal: <b>Contribute to human space exploration</b><br>
+⚡ Fun fact: I'm trying to build my own <b>rocket</b> 🚀<br>
+🚢 Passionate about <b>ships</b> and <b>ocean navigation</b>
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" title="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wolfram/wolfram-original.svg" height="40" title="Wolfram Mathematica"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos888nasa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos888nasa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=carlos888nasa&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>🛰️ Satellite Orbit Simulator</b><br>
+        <a href="https://github.com/carlos888nasa/satellite-orbit-sim">View Project</a><br>
+        Python & MATLAB
+      </td>
+      <td align="center" width="33%">
+        <b>🎈 LoRa for Balloons</b><br>
+        <a href="https://github.com/carlos888nasa/lora-balloon-system">View Project</a><br>
+        C & Arduino
+      </td>
+      <td align="center" width="33%">
+        <b>🚢 Ship Tracking System</b><br>
+        <a href="https://github.com/carlos888nasa/ship-tracker-iot">View Project</a><br>
+        Python & Embedded
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<div align="center">
+  <a href="https://github.com/carlos888nasa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:carlosortegamantero@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-ortega-5b904a23b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="35"/>
+  </a>
+  <a href="https://x.com/carlos888nasa" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <!-- Snake animation corregida -->
+  <img src="https://raw.githubusercontent.com/carlos888nasa/carlos888nasa/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <!-- Contador de visitantes mejorado -->
+  <img src="https://komarev.com/ghpvc/?username=carlos888nasa&label=Profile+Views&color=5b61de&style=flat" alt="profile views" />
+  <br>
+  <img src="https://profile-counter.glitch.me/carlos888nasa/count.svg?" alt="Visitor counter" />
+</div>
+
+---
+
+<div align="center">
+  <p>🚀 <b>"Always aiming for the stars — let's build the future together!"</b> 🚀</p>
+</div>
