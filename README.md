@@ -10,8 +10,6 @@
 
 <br>
 
----
-
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
@@ -22,18 +20,33 @@
 🚢 Passionate about <b>ships</b> and <b>ocean navigation</b>
 </p>
 
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" title="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wolfram/wolfram-original.svg" height="40" title="Wolfram Mathematica"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <!-- Lenguajes de programación -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  
+  <!-- Desarrollo web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  
+  <!-- Herramientas matemáticas/científicas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" title="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wolfram/wolfram-original.svg" height="40" title="Wolfram Mathematica" />
+  
+  <!-- Sistemas embebidos/OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
+  
+  <!-- Herramientas de desarrollo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
+</div>
+  
 </div>
 
 ---
@@ -91,23 +104,21 @@
   </a>
 </div>
 
----
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlos888nasa/carlos888nasa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlos888nasa/carlos888nasa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carlos888nasa/carlos888nasa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
-  <!-- Snake animation corregida -->
-  <img src="https://raw.githubusercontent.com/carlos888nasa/carlos888nasa/output/snake.svg" alt="Snake animation" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlos888nasa.carlos888nasa&"  />
 </div>
 
----
-
-<div align="center">
-  <!-- Contador de visitantes mejorado -->
-  <img src="https://komarev.com/ghpvc/?username=carlos888nasa&label=Profile+Views&color=5b61de&style=flat" alt="profile views" />
-  <br>
-  <img src="https://profile-counter.glitch.me/carlos888nasa/count.svg?" alt="Visitor counter" />
-</div>
-
----
+###
 
 <div align="center">
   <p>🚀 <b>"Always aiming for the stars — let's build the future together!"</b> 🚀</p>
