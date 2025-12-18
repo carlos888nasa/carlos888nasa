@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=0B3D91&center=true&vCenter=true&width=800&height=100&lines=CARLOS;MISSION+CONTROL+CENTER" alt="Typing SVG" />
-  <h3>🚀 Telecommunications Engineering Student | Future Astronaut | Space Enthusiast</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCDEC&center=true&width=600&lines=Establishing+uplink+with+the+stars...;Developing+the+future+between+bits+and+stars;Exploring+the+final+frontier" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&height=100&lines=CARLOS+ORTEGA;FUTURE+ASTRONAUT;MISSION+CONTROL+CENTER" alt="Typing SVG" />
+  <h3>🚀 Telecommunications Engineering Student | Space Enthusiast</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9B1D6&center=true&width=600&lines=Establishing+uplink+with+the+stars...;Developing+the+future+between+bits+and+stars;Exploring+the+final+frontier" alt="Typing SVG">
 </div>
 
 ---
 
-## 🛰️ Mission Control: About Me
+## 🛰️ Orbital Status: About Me
 <p align="center">
   <b>🔭 Current Orbit:</b> Astrodynamics & Satellite Communications<br>
   <b>🌱 System Upgrade:</b> Learning Embedded Systems for space applications<br>
@@ -17,10 +17,17 @@
 
 ---
 
+## 🌍 Real-Time ISS Tracking
+<div align="center">
+  <img src="https://orbit.ing/api/v1/iss/map.svg" width="85%" />
+  <p><i>Telemetry: Current position of the International Space Station</i></p>
+</div>
+
+---
+
 ## 📊 System Telemetry (Activity)
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" width="90%" alt="3D Contribution Graph" />
-  <p><i>Visualización 3D de la infraestructura de código en la base carlos888nasa</i></p>
 </div>
 
 <div align="center">
@@ -30,25 +37,45 @@
 
 ---
 
-## 🛠️ Tech Stack & Hardware
-<div align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=matlab&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge&logo=cpu-fill&logoColor=white" />
+## 🛠️ Tech Stack & Systems Architecture
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" title="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wolfram/wolfram-original.svg" height="45" title="Wolfram Mathematica" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" title="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" />
 </div>
 
 ---
 
 ## 🚀 Active Missions (Projects)
-| Project | Objective | Tech Stack |
-| :--- | :--- | :--- |
-| **🛰️ Satellite Sim** | Orbit simulator & trajectory analysis | Python & MATLAB |
-| **🎈 LoRa Balloon** | High-altitude communication system | C & Arduino |
-| **🚢 Ship Tracker** | IoT system for marine navigation | Python & Embedded |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>🛰️ Satellite Orbit Simulator</b><br>
+        Python & MATLAB
+      </td>
+      <td align="center" width="33%">
+        <b>🎈 LoRa for Balloons</b><br>
+        C & Arduino
+      </td>
+      <td align="center" width="33%">
+        <b>🚢 Ship Tracking System</b><br>
+        Python & Embedded
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -68,5 +95,5 @@
 <div align="center">
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=carlos888nasa.carlos888nasa&" />
-  <p>🚀 <b>"Per Aspera Ad Astra — Establishing the future of communications"</b></p>
+  <p>🚀 <b>"Always aiming for the stars — let's build the future together!"</b></p>
 </div>
