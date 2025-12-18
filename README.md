@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=space&color=0b3d91&height=200&section=header&text=CARLOS%20ORTEGA&fontSize=70&animation=twinkling" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=0B3D91&center=true&vCenter=true&width=800&height=100&lines=CARLOS+ORTEGA;MISSION+CONTROL+CENTER" alt="Typing SVG" />
   <h3>🚀 Telecommunications Engineering Student | Future Astronaut | Space Enthusiast</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCDEC&center=true&width=600&lines=Establishing+uplink+with+the+stars...;Developing+the+future+between+bits+and+stars;Exploring+the+final+frontier" alt="Typing SVG">
 </div>
