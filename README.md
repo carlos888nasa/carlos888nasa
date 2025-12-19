@@ -14,28 +14,6 @@
   <b>🚢 Secondary Protocol:</b> Passionate about Ocean Navigation & Ship Tracking Systems<br>
   <b>⚡ System Fact:</b> Currently assembling a rocket prototype 🚀
 </p>
-
----
-
-## 🌍 Real-Time ISS Tracking
-<div align="center">
-  <img src="https://orbit.ing/api/v1/iss/map.svg" width="85%" />
-  <p><i>Telemetry: Current position of the International Space Station over Earth</i></p>
-</div>
-
----
-
-## 🌍 Real-Time ISS Tracking (Uplink: Active)
-<div align="center">
-  <img src="https://images-api.nasa.gov/details-iss-tracking" width="0" /> <a href="https://www.trackiss.net/" target="_blank">
-    <img src="https://www.heavens-above.com/orbitdisplay.ashx?icon=iss&width=600&height=300&mode=F" width="85%" alt="ISS Live Tracking" />
-  </a>
-  <p><i>📡 Telemetry Source: Heavens-Above Live Orbital Data</i></p>
-  
-  <img src="https://img.shields.io/badge/ISS_Velocity-7.66_km%2Fs-blue" /> 
-  <img src="https://img.shields.io/badge/Altitude-~408_km-orange" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Systems Architecture
@@ -50,6 +28,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wolfram/wolfram-original.svg" height="45" title="Wolfram Mathematica" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" title="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux" />
+</div>
+
+---
+
+## 📊 Activity
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="90%" alt="3D Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos888nasa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos888nasa&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
