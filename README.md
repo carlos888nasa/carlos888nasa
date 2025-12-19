@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&height=100&lines=CARLOS+ORTEGA;FUTURE+ASTRONAUT;MISSION+CONTROL+CENTER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&height=100&lines=CARLOS;FUTURE+ASTRONAUT;MISSION+CONTROL+CENTER" alt="Typing SVG" />
   <h3>🚀 Telecommunications Engineering Student | Space Enthusiast</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9B1D6&center=true&width=600&lines=Establishing+uplink+with+the+stars...;Developing+the+future+between+bits+and+stars;Exploring+the+final+frontier" alt="Typing SVG">
 </div>
